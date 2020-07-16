@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://w00j77.coding-pages.com</id>
     <title>Gridea</title>
-    <updated>2020-07-16T05:31:25.467Z</updated>
+    <updated>2020-07-16T05:41:37.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://w00j77.coding-pages.com"/>
     <link rel="self" href="https://w00j77.coding-pages.com/atom.xml"/>
@@ -11,13 +11,20 @@
     <icon>https://w00j77.coding-pages.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[范德萨分的缩放底色多少多少]]></title>
-        <id>https://w00j77.coding-pages.com/post/ce-shi/</id>
-        <link href="https://w00j77.coding-pages.com/post/ce-shi/">
+        <title type="html"><![CDATA[keyshot测试]]></title>
+        <id>https://w00j77.coding-pages.com/post/keyshot-ce-shi/</id>
+        <link href="https://w00j77.coding-pages.com/post/keyshot-ce-shi/">
         </link>
-        <updated>2020-07-15T02:15:08.000Z</updated>
-        <content type="html"><![CDATA[<p>粉红色的花复合大师富华大厦浮雕山浮雕和风口浪尖登山浮雕</p>
-]]></content>
+        <updated>2020-07-16T05:36:32.000Z</updated>
+        <summary type="html"><![CDATA[<p>keyshot测试</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>keyshot测试</p>
+<!-- more -->
+<div style="left:0px; width:100%; height:0px; position:relative; padding-bottom:75%;">
+<iframe src="https://vip1151733437.github.io/test/index.html" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;"></iframe>
+</div>
+<!-- more -->
+![](https://w00j77.coding-pages.com/post-images/1594878085538.jpg)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
